@@ -1,3 +1,6 @@
+![github-banner](https://user-images.githubusercontent.com/59540282/209968513-16325b38-b9cf-4232-a25f-93135ed9159a.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A junior frontend developer from France</h3>
 
