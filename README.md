@@ -1,7 +1,6 @@
-![github-banner](https://user-images.githubusercontent.com/59540282/209968513-16325b38-b9cf-4232-a25f-93135ed9159a.jpg)
+![github-banner](https://user-images.githubusercontent.com/59540282/209969368-944dae24-b544-4880-ac37-12480f3dd1db.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A junior frontend developer from France</h3>
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/ethantaylan/ethan-taylan-portfolio)
