@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my portfolio](https://github.com/ethantaylan/ethan-taylan-portfolio)
 
-- 🌱 I’m currently learning **ReactJS, TypeScript & Python for backend**
+- 🌱 I’m using **ReactJS, TypeScript**  & and currently learning **Python** for backend
 
 - 👨‍💻 All of my projects are available at [https://ethan-taylan.netlify.app/](https://ethan-taylan.netlify.app/) (but still in beta)
 
