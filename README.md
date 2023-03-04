@@ -7,7 +7,7 @@
 
 - 🌱 I’m using **SASS, ReactJS, TypeScript**  & and currently learning **Python** for backend
 
-- 👨‍💻 All of my projects are available at [https://ethan-taylan.netlify.app/](https://ethan-taylan.netlify.app/) (but still in beta)
+- 👨‍💻 All of my projects are available at www.ethantaylan.com
 
 - 📫 How to reach me **taylanethan@gmail.com**
 
