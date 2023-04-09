@@ -1,7 +1,6 @@
-![github-banner](https://user-images.githubusercontent.com/59540282/209969368-944dae24-b544-4880-ac37-12480f3dd1db.jpg)
+![image](https://user-images.githubusercontent.com/59540282/230756968-7b1865e7-89aa-4f54-bb01-31f5621cbe69.png)
 
-
-<h3 align="center">A junior frontend developer from France</h3>
+<h3 align="center">React Developer</h3>
 
 - 👨‍💻 All of my projects are available at www.ethantaylan.com
 
