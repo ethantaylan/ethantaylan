@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/59540282/230756968-7b1865e7-89aa-4f54-bb01-31f5621cbe69.png)
+![image](https://user-images.githubusercontent.com/59540282/230757018-5a5b7691-fe67-4326-afea-23b516f24e08.png)
 
 <h3 align="center">React Developer</h3>
 
