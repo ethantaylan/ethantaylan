@@ -3,10 +3,6 @@
 
 <h3 align="center">A junior frontend developer from France</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/ethantaylan/ethan-taylan-portfolio)
-
-- 🌱 I’m using **SASS, ReactJS, TypeScript**  & and currently learning **NodeJS** for backend
-
 - 👨‍💻 All of my projects are available at www.ethantaylan.com
 
 - 📫 How to reach me **taylanethan@gmail.com**
