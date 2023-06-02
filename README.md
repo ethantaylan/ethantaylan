@@ -1,4 +1,4 @@
-<h3 align="center">React Developer</h3>
+<h3 align="left">React Developer</h3>
 
 - 👨‍💻 All of my projects are available at www.ethantaylan.com
 
