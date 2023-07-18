@@ -1,5 +1,7 @@
 <!-- Your Name -->
-# Hi there, I'm [Your Name](https://yourwebsite.com) 👋
+# Hi there, I'm [Ethan](https://ethantaylan.netlify.app) 👋
+
+![image](https://media.licdn.com/dms/image/D4E16AQEDORZIrRO6Zg/profile-displaybackgroundimage-shrink_350_1400/0/1689672563768?e=1695254400&v=beta&t=EiVjT-lA15yYmrblqBdx9TGNIGUDE8c8oBuPVSWVm0E)
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
@@ -23,15 +25,10 @@ Get started now and supercharge your React projects! ✨
 ### 🔧 Technologies & Tools
 Here are some of the technologies and tools I love working with:
 - Programming Languages: PHP, NodeJS
-- Frameworks & Libraries: React, NestJS, Tailwind, Bootstrap.
+- Frameworks & Libraries: ReactJS, NestJS, Tailwind, Bootstrap.
 - Databases: MySQL, Supabase
 - Version Control: Git, GitHub
 - Other tools: FIGMA, Photoshop
-
-
-<!-- Your GitHub stats -->
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 
 <!-- Let's connect -->
 ### 💬 Let's Connect
