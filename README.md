@@ -1,12 +1,46 @@
-<h3 align="left">Frontend Developer</h3>
+<!-- Your Name -->
+# Hi there, I'm [Your Name](https://yourwebsite.com) 👋
 
-- 👨‍💻 All of my projects are available at www.ethantaylan.com
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername)
+[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
+[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/yourprofile)
+[![Website](https://img.shields.io/website?label=Portfolio&style=flat-square&url=https%3A%2F%2Fyourwebsite.com)](https://yourwebsite.com)
 
-- 📫 How to reach me **taylanethan@gmail.com**
+<!-- Your introduction -->
+I'm a passionate developer, open-source enthusiast, and tech aficionado. Welcome to my GitHub profile! Here, you'll find a collection of my projects and contributions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/@ethan-taylan-697831199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@ethan-taylan-697831199" height="30" width="40" /></a>
-<a href="https://instagram.com/@et.tln" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@et.tln" height="30" width="40" /></a>
-<a href="https://discord.gg/ethaN#2730" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ethaN#2730" height="30" width="40" /></a>
-</p>
+<!-- Your top repositories -->
+### 🚀 Featured project
+[React Template](https://github.com/ethantaylan/nx-react-ts-tailwind-template):
+
+  
+Jumpstart your React projects with this powerful template! It's built on NX, providing a scalable monorepo structure and TypeScript support. Tailwind CSS presets make designing a breeze, while preconfigured hooks ensure smooth state management. Start building your next web app with confidence and productivity!
+
+
+Get started now and supercharge your React projects! ✨
+
+<!-- Your skills -->
+### 🔧 Technologies & Tools
+Here are some of the technologies and tools I love working with:
+- Programming Languages: PHP, NodeJS
+- Frameworks & Libraries: React, NestJS, Tailwind, Bootstrap.
+- Databases: MySQL, Supabase
+- Version Control: Git, GitHub
+- Other tools: FIGMA, Photoshop
+
+
+<!-- Your GitHub stats -->
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+
+<!-- Let's connect -->
+### 💬 Let's Connect
+I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on any of these platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/ethan-taylan-697831199/)
+- [Email](mailto:ethtaylan@gmail.com)
+
+<!-- Footer -->
+<div align="center">
+  <p>Thanks for visiting. Enjoy exploring my projects! 😊</p>
+</div>
